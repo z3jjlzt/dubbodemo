@@ -14,6 +14,7 @@ public class App {
         applicationContext.start();
         System.out.println("按任意键退出！！");
         System.in.read();
+        System.out.println("服务结束！！");
 
     }
 }
